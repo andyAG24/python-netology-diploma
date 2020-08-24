@@ -39,7 +39,7 @@
  
 1. Общее описание сервиса
 1. [Спецификация (API) - 1 шт.](./reference/screens.md)
-1. [Файлы yaml для импорта товаров - 1 шт.](./data/shop1.yaml)
+1. [Файлы yaml для импорта товаров - 1 шт.](backend/fixtures/shop1.yaml)
 1. [Пример API Сервиса для магазина](./reference//netology_pd_diplom/) 
 
 ## Этапы разработки
@@ -160,3 +160,6 @@
 
 Для получения подробностей по данному этапу
 [перейдите по ссылке](reference/step-7-adv.md).
+
+Схема API на сервисе POSTMAN:
+https://documenter.getpostman.com/view/10339554/SzRxXWnD
